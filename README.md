@@ -1,18 +1,18 @@
 
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Self Learning.
-- 🌱 I’m currently learning Python / DSA.
+# 💫About Me: 
+- 🔭 **I’m currently working on **Self Learning.
+- 🌱 **I’m currently learning** Python / DSA.
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about HTML/CSS/JS/C/Python
-- 📫 How to reach me: dhruvdankhara02@gmail.com
+- 💬 **Ask me about** HTML/CSS/JS/C/Python
+- 📫 **How to reach me:** dhruvdankhara02@gmail.com
 <!--- 😄 Pronouns: ...-->
-- ⚡ Fun fact: I am doing coding from 9th standerd.
+- ⚡ **Fun fact:** I am doing coding from 9th standerd.
 
 
-
+<!-- 
 
 # 💫 About Me:
 🔭 **I’m currently working on:**  <br>
@@ -25,7 +25,7 @@ Advanced Python and DSA.<br><br>
 JavaScript, Python and any general software development questions.<br><br>
 ⚡ **Fun fact:**  <br>
 I love to click pictures and Edit Video.
-
+-->
 
 <!--
 ## 🌐 Socials:
