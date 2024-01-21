@@ -52,12 +52,12 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/dhruvdankhara/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://leetcode.com/dhruvdankhara/">
+    <img src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+    </a>
     <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=dhruvdankhara02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <!-- <a href="https://portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
-    </a> -->
     <a href="https://gl01.gitbook.io/gfg-editorials">
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
     </a>
@@ -74,7 +74,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvdankhara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
 <br>
-[![GitHub Views](https://komarev.com/ghpvc/?username=dhruvdankhara&color=FAC151)][1]
+### Profile Views
+![GitHub Views](https://komarev.com/ghpvc/?username=dhruvdankhara&color=FAC151)
 
 
 
