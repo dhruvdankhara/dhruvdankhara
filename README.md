@@ -66,9 +66,24 @@ I love to click pictures and Edit Video.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
 </div>
 
+### 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-605%20hrs%2043%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=dhruvdankhara&show_icons=true&theme=radical&hide=issues,prs&hide_rank=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvdankhara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvdankhara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Visitors](https://moe-counter.glitch.me/get/@dhruvdankhara?)
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+</picture>
