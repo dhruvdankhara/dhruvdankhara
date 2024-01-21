@@ -2,35 +2,12 @@
 
 Here are some ideas to get you started:
 # 💫About Me: 
-- 🔭 **I’m currently working on **Self Learning.
+- 🔭 **I’m currently working on *Self Learning*.
 - 🌱 **I’m currently learning** Python / DSA.
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
 - 💬 **Ask me about** HTML/CSS/JS/C/Python
 - 📫 **How to reach me:** dhruvdankhara02@gmail.com
-<!--- 😄 Pronouns: ...-->
 - ⚡ **Fun fact:** I am doing coding from 9th standerd.
 
-
-<!-- 
-
-# 💫 About Me:
-🔭 **I’m currently working on:**  <br>
-To building some good project.<br><br>
-👯 **I’m looking to collaborate on:**  <br>
-Fullstack projects<br><br>
-🌱 **I’m currently learning:**  <br>
-Advanced Python and DSA.<br><br>
-💬 **Ask me about:**  <br>
-JavaScript, Python and any general software development questions.<br><br>
-⚡ **Fun fact:**  <br>
-I love to click pictures and Edit Video.
--->
-
-<!--
-## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ezSnippet) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezSnippet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ezSnippet) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20331641) 
--->
 
 ### :hammer_and_wrench: Languages and Tools 
 <div>
@@ -49,7 +26,7 @@ I love to click pictures and Edit Video.
   <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
 
-    <!-- <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="JavaScript" alt="Bootstrap" width="40" height="40"/>&nbsp; -->
+  <!-- <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="JavaScript" alt="Bootstrap" width="40" height="40"/>&nbsp; -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>&nbsp; -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJs" width="40" height="40"/>&nbsp; -->
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>&nbsp; -->
@@ -69,18 +46,35 @@ I love to click pictures and Edit Video.
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0.7%20million%20lines%20of%20code-blue)
 
 
+### 🔗 Social info
 
+<div id="badges">
+    <a href="https://www.linkedin.com/in/dhruvdankhara/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=dhruvdankhara02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <!-- <a href="https://portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-dda703?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a> -->
+    <a href="https://gl01.gitbook.io/gfg-editorials">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
+    </a>
+</div>
+
+
+### Other Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=dhruvdankhara&show_icons=true&theme=radical&hide=issues,prs&hide_rank=true)
 <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvdankhara&theme=dark&hide_border=false)<br/>
+<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvdankhara&theme=dark&hide_border=false)
+<br/>
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvdankhara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
-![Visitors](https://moe-counter.glitch.me/get/@dhruvdankhara?)
+<br>
+[![GitHub Views](https://komarev.com/ghpvc/?username=dhruvdankhara&color=FAC151)][1]
 
-### 🐍 Contribution snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://dhruvdankhara.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://dhruvdankhara.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://dhruvdankhara.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
+
