@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 # 💫About Me: 
-- 🔭 **I’m currently working on *Self Learning*.
+- 🔭 **I’m currently working on** Some Good Stuff.
 - 🌱 **I’m currently learning** Python / DSA.
 - 💬 **Ask me about** HTML/CSS/JS/C/Python
 - 📫 **How to reach me:** dhruvdankhara02@gmail.com
