@@ -70,11 +70,11 @@ Here are some ideas to know me more:
     <a href="https://www.hackerrank.com/profile/dhruvdankhara">
     <img src="https://img.shields.io/badge/Hacker%20Rank-black?style=for-the-badge&logo=hackerrank" alt="Hacker Rank"/>
     </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=dhruvdankhara02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
     <a href="https://gl01.gitbook.io/gfg-editorials">
     <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=dhruvdankhara02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
 </div>
 
