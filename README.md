@@ -65,7 +65,7 @@ Here are some ideas to know me more:
     <img src="https://img.shields.io/badge/x(twitter)-black?style=for-the-badge&logo=x&logoColor=white" alt="twitter Badge"/>
     </a>
     <a href="https://leetcode.com/dhruvdankhara/">
-    <img src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/leetcode-gray?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
     </a>
     <a href="https://www.hackerrank.com/profile/dhruvdankhara">
     <img src="https://img.shields.io/badge/Hacker%20Rank-black?style=for-the-badge&logo=hackerrank" alt="Hacker Rank"/>
