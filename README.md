@@ -1,6 +1,7 @@
 
 
-Here are some ideas to get you started:
+Here are some ideas to know me more:
+
 # 💫About Me: 
 - 🔭 **I’m currently working on** Some Good Stuff.
 - 🌱 **I’m currently learning** Python / DSA.
