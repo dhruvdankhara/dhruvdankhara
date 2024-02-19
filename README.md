@@ -29,6 +29,7 @@ Here are some ideas to know me more:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226092559-edfa9908-a7ec-461c-918a-1f1d1fc3156f.png" alt="vercel" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226092756-fa7e7ed6-bfe3-4c24-9c49-ad1acfc436d6.png" alt="render" />&nbsp;
   <img src="https://user-images.githubusercontent.com/79409258/226091590-d7d020ad-ce51-4497-bd7e-db7ed6e81589.png" alt="analytics" width="40" height="40"/>&nbsp;
