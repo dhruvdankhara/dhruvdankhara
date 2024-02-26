@@ -5,7 +5,7 @@ Here are some ideas to know me more:
 # 💫About Me: 
 - 🔭 **I’m currently working on** Some Good Stuff.
 - 🌱 **I’m currently learning** React.js.
-- 💬 **Ask me about** HTML/CSS/JS/C/Python.
+- 💬 **Ask me about** JavaScript/C/Python.
 - 📫 **How to reach me:** dhruvdankhara02@gmail.com
 <!-- - ⚡ **Fun fact:** I am doing coding from 9th standerd.-->
 
