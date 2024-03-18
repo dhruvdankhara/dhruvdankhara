@@ -1,97 +1,94 @@
+<h1 align="center">hey there 👋</h1>
 
+###
 
-Here are some ideas to know me more:
+<h3 align="left">👩‍💻  About Me</h3>
 
-# 💫About Me: 
-- 🔭 **I’m currently working on** Some Good Stuff.
-- 🌱 **I’m currently learning** React.js.
-- 💬 **Ask me about** JavaScript/C/Python.
-- 📫 **How to reach me:** dhruvdankhara02@gmail.com
-<!-- - ⚡ **Fun fact:** I am doing coding from 9th standerd.-->
+###
 
+<p align="left">I'm Dhruv Dankhara from India<br><br>- 🔭 I’m currently working on Some Good Stuff.<br>- 🌱 I’m currently learning ML.<br>- 💬 Ask me about JavaScript/C/Python.<br>- 📫 How to reach me: dhruvdankhara02@gmail.com</p>
 
-### :hammer_and_wrench: Languages:
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>&nbsp; 
+###
 
-### :hammer_and_wrench: DataBase:
+<h3 align="left">🛠 Language and tools</h3>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>  
+###
 
-### :hammer_and_wrench: Tools:
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226092559-edfa9908-a7ec-461c-918a-1f1d1fc3156f.png" alt="vercel" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226092756-fa7e7ed6-bfe3-4c24-9c49-ad1acfc436d6.png" alt="render" />&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091590-d7d020ad-ce51-4497-bd7e-db7ed6e81589.png" alt="analytics" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/79409258/226091987-3cdf9344-dcfa-4d4e-ad0d-d3ab37c3c4db.png" alt="notion" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
-
-  <!-- <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" title="JavaScript" alt="Bootstrap" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJs" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJs" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://user-images.githubusercontent.com/79409258/226091304-3b3e278f-b249-497d-a020-c13cba259e53.png" alt="NextJs" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="Mysql" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>&nbsp; -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>&nbsp; -->
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="40" alt="netlify logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
 </div>
 
-### 📈 Weekly Development Breakdown
+###
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2009%20mins-blue)
+<h3 align="left">🤝Social</h3>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0.7%20million%20lines%20of%20code-blue)
+###
 
-
-### 🔗 Social info
-
-<div id="badges">
-    <a href="https://www.linkedin.com/in/dhruvdankhara/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/dhruvvdankhara">
-    <img src="https://img.shields.io/badge/x(twitter)-black?style=for-the-badge&logo=x&logoColor=white" alt="twitter Badge"/>
-    </a>
-    <a href="https://leetcode.com/dhruvdankhara/">
-    <img src="https://img.shields.io/badge/leetcode-gray?style=for-the-badge&logo=leetcode" alt="LeetCode"/>
-    </a>
-    <a href="https://www.hackerrank.com/profile/dhruvdankhara">
-    <img src="https://img.shields.io/badge/Hacker%20Rank-black?style=for-the-badge&logo=hackerrank" alt="Hacker Rank"/>
-    </a>
-    <a href="https://gl01.gitbook.io/gfg-editorials">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=dhruvdankhara02@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/dhruv-dankhara" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/dhruvvdankhara" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/dhruvdankhara" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
+  </a>
+  <a href="https://bento.me/dhruvdankhara" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  </a>
 </div>
 
+###
 
-### Other Stats: 
-![](https://github-readme-stats.vercel.app/api?username=dhruvdankhara&show_icons=true&theme=radical&hide=issues,prs&hide_rank=true)
-<br>
-<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvdankhara&theme=dark&hide_border=false)
-<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvdankhara&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<br>
-<br>
-### Profile Views
-![GitHub Views](https://komarev.com/ghpvc/?username=dhruvdankhara&color=FAC151)
+<h3 align="left">🔥   My Stats :</h3>
 
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dhruvdankhara&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvdankhara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvdankhara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvdankhara&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dhruvdankhara.dhruvdankhara&"  />
+</div>
+
+###
