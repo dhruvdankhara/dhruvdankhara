@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Dhruv Dankhara from India<br><br>- 🔭 I’m currently working on Some Good Stuff.<br>- 🌱 I’m currently learning ML.<br>- 💬 Ask me about JavaScript/C/Python.<br>- 📫 How to reach me: dhruvdankhara02@gmail.com</p>
+<p align="left">I'm Dhruv Dankhara from India<br><br>- 🔭 I’m currently working on Some Good Stuff.<br>- 🌱 I’m currently learning Node.js.<br>- 💬 Ask me about JavaScript/C/Python.<br>- 📫 How to reach me: dhruvdankhara02@gmail.com</p>
 
 ###
 
